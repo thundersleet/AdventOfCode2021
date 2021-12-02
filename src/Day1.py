@@ -7,4 +7,3 @@ if __name__ == '__main__':
         if line_object[i + 3] > line_object[i]:
             increase_count += 1
     print(increase_count)
-
